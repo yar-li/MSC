@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'SuisseIntl';
+    src: url('SuisseIntl-Regular.otf') format('otf');
+    font-style: normal;
+    font-weight: 300;
+    }
+    body {
+        font-family: 'SuisseIntl', sans-serif;
+        font-weight: 300;
+        line-height: 1.8em;
+        color: #5D6063;
+        }
+.title {
+color: #FFF;
+background-color: #000000;
+padding-left: 8px;
+padding-top: 4px;
+padding-bottom: 4px;
+margin-bottom: 30px;
+}
+
+.paragraph{
+margin-top: 20px;
+margin-bottom:20px;
+}
